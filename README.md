@@ -168,6 +168,9 @@ sudo ./docker-cleanup images
 sudo ./docker-cleanup volumes --dry-run
 ```
 
+## How to update code and release it.
+[Release](RELEASE.md)
+
 ## Safety Features
 
 - Dry run mode to preview actions
