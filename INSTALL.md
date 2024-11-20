@@ -83,7 +83,7 @@ curl -L $(curl -s https://api.github.com/repos/dhairya13703/docker-cleanup/relea
 
 After installation, verify it works:
 ```bash
-docker-cleanup --version
+docker-cleanup --help
 ```
 
 ## Troubleshooting
